@@ -22,6 +22,11 @@ namespace TiposVarios
             decimal real3 = 3.1415m;
 
             Console.WriteLine(real1 + " " + real2 + " " + real3);
+
+            bool conditionF = false;
+            bool condicionT = true;
+
+            Console.WriteLine("{0} {1}", conditionF, condicionT);
         }
 
     }
