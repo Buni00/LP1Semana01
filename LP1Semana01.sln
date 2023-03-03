@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argumentos", "Argumentos\Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposVarios", "TiposVarios\TiposVarios.csproj", "{2B35BC09-6393-4549-A011-A9B6DC591E9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariasStrings", "VariasStrings\VariasStrings.csproj", "{D5858601-ECA6-4F23-90FF-0A6BF566667C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{2B35BC09-6393-4549-A011-A9B6DC591E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B35BC09-6393-4549-A011-A9B6DC591E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B35BC09-6393-4549-A011-A9B6DC591E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5858601-ECA6-4F23-90FF-0A6BF566667C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5858601-ECA6-4F23-90FF-0A6BF566667C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5858601-ECA6-4F23-90FF-0A6BF566667C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5858601-ECA6-4F23-90FF-0A6BF566667C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
