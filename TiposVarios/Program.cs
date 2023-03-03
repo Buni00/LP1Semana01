@@ -12,6 +12,11 @@ namespace TiposVarios
             long l = 4L;
 
             Console.WriteLine(i + " "  + u +" " + x + " " + l);
+
+            char dot = '\u002E';
+            char comma = '\u002C';
+
+            Console.WriteLine(dot + " " + comma);
         }
 
     }
